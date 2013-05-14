@@ -38,7 +38,7 @@ z-index:1;
 left:10%;
 width:80%;
 }
-li {
+#menu li {
 display:inline;
 background:red;
 border-radius:5px;
@@ -53,9 +53,14 @@ width:73%;
 margin-bottom:10px;
 height:1000px;
 }
-div.left div{
+.left div{
 padding:10px;
 border-color:transparent;
+}
+.left div>div {
+height:100px;
+width:100px;
+background-color:white;
 }
 .right {
 position:relative;
@@ -64,7 +69,7 @@ width:25%;
 margin-bottom:10px;
 height:1000px;
 }
-div.right div{
+.right div{
 padding:10px;
 border-color:transparent;
 }
