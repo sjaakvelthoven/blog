@@ -3,7 +3,7 @@ $("document").ready(function(){
       $(this).hide();
   });
   $("#sortable").accordion({
-    collapsible:true,
+    collapsible:true
     active:false
   });
 });
