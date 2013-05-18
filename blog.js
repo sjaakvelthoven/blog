@@ -2,7 +2,7 @@ $("document").ready(function(){
   $("#hide").click(function(){
       $(this).hide();
   });
-  $("#sortable").accordion({
+  $("div#sortable").accordion({
     collapsible:true
     active:false
   });
