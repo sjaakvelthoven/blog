@@ -4,6 +4,5 @@ $("document").ready(function(){
   });
   $("div#sortable").accordion({
     collapsible:true
-    active:false
   });
 });
