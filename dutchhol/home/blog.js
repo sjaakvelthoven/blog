@@ -1,12 +1,7 @@
 SC.initialize({
-  client_id:"9f5f0eb2986ff6115aa0ed1f2fae6b2f",
-  redirect_uri:
-SC.initialize({
   client_id: "9f5f0eb2986ff6115aa0ed1f2fae6b2f",
   redirect_uri: "https://soundcloud.com/connect?state=SoundCloud_Dialog_62975&client_id=609ae0b573913db156968e0ec38c1e26&redirect_uri=http%3A%2F%2Fdevelopers.soundcloud.com%2Fcallback.html&response_type=code_and_token&scope=non-expiring&display=popup"
 });
-=======
->>>>>>> a6e9d904b21d664184588389953edc18daf73a0a
 $("document").ready(function(){
   $("#hide").click(function(){
       $(this).hide();
@@ -14,10 +9,7 @@ $("document").ready(function(){
   $("div#sortable").accordion({
     collapsible:true
   });
-<<<<<<< HEAD
   SC.oEmbed("https://soundcloud.com/seetherofficial/fake-it", {color: "ff0066"},  document.getElementById("player"));
-=======
->>>>>>> a6e9d904b21d664184588389953edc18daf73a0a
 });
 
 
@@ -42,10 +34,6 @@ function search() {
 }
 function onSearchResponse(response) {
     showResponse(response);
-<<<<<<< HEAD
-}
-=======
-}
 
 //soundcloud API
 
@@ -62,4 +50,3 @@ function onSearchResponse(response) {
 //  SC.get("/tracks/293",function(track){
 //      SC.oEmbed(track.permalink_url, document.getElementById('player'));
 //  });
->>>>>>> a6e9d904b21d664184588389953edc18daf73a0a
