@@ -17,12 +17,12 @@ a:hover {
 color:white;
 }
 body {
-background:white;
+background:darkgrey;
 }
 div {
 border:solid;
 border-radius:10px;
-background:yellow;
+background:whitesmoke;
 }
 #header {
 position:relative;
