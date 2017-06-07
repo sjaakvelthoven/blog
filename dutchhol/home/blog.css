@@ -33,7 +33,7 @@ top:45px;
 #menu {
 text-align:center;
 position:fixed;
-margin-top:-14px;
+margin-top:14px;
 z-index:1;
 left:10%;
 width:80%;
