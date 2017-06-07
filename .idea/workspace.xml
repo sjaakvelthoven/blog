@@ -20,8 +20,8 @@
       <file leaf-file-name="blogg.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dutchhol/home/blogg.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="145" lean-forward="false" selection-start-line="16" selection-start-column="145" selection-end-line="16" selection-end-column="145" />
+            <state relative-caret-position="198">
+              <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -30,7 +30,7 @@
       <file leaf-file-name="blog.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dutchhol/home/blog.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
+            <state relative-caret-position="336">
               <caret line="27" column="12" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
               <folding />
             </state>
@@ -171,12 +171,12 @@
       <workItem from="1496836078292" duration="193000" />
       <workItem from="1496837297884" duration="2795000" />
       <workItem from="1496845653999" duration="2000" />
-      <workItem from="1496845657954" duration="437000" />
+      <workItem from="1496845657954" duration="552000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3427000" />
+    <option name="totallyTimeSpent" value="3542000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="18" y="43" width="1400" height="837" extended-state="0" />
@@ -325,7 +325,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dutchhol/home/blog.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
+        <state relative-caret-position="336">
           <caret line="27" column="12" lean-forward="false" selection-start-line="27" selection-start-column="12" selection-end-line="27" selection-end-column="12" />
           <folding />
         </state>
@@ -333,8 +333,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dutchhol/home/blogg.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="145" lean-forward="false" selection-start-line="16" selection-start-column="145" selection-end-line="16" selection-end-column="145" />
+        <state relative-caret-position="198">
+          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
           <folding />
         </state>
       </provider>
