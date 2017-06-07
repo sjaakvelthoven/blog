@@ -40,7 +40,7 @@ width:80%;
 }
 #menu li {
 display:inline;
-background:red;
+background:lightgrey;
 border-radius:5px;
 border:solid black 2px;
 padding:4px;
