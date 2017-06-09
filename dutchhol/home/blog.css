@@ -42,13 +42,16 @@ z-index:1;
 left:10%;
 width:80%;
 }
-#menu li {
+#menu ul {
 display:inline;
 background:lightgrey;
 border-radius:5px;
 border:solid black 2px;
 padding:4px;
 font-family:"Times New Roman";
+}
+#menu a {
+    padding:5px;
 }
 .left {
 position:relative;
