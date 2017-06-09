@@ -29,26 +29,20 @@ background:whitesmoke;
     padding:5px;
 }
 #header {
-position:relative;
-text-align:center;
-margin-bottom:55px;
-top:45px;
+    position:relative;
+    text-align:center;
+    margin-bottom:55px;
+    top:45px;
 }
 #menu {
-text-align:center;
-position:fixed;
-margin-top:5px;
-z-index:1;
-left:10%;
-width:80%;
-}
-#menu ul {
-display:inline;
-background:lightgrey;
-border-radius:5px;
-border:solid black 2px;
-padding:4px;
-font-family:"Times New Roman";
+    text-align:center;
+    position:fixed;
+    margin-top:5px;
+    z-index:1;
+    left:10%;
+    width:80%;
+    font-family:Helvetica, Arial, sans-serif;
+    background:lightgrey;
 }
 #menu a {
     padding:5px;
