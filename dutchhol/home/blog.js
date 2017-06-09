@@ -34,6 +34,7 @@ function search() {
 }
 function onSearchResponse(response) {
     showResponse(response);
+}
 
 //soundcloud API
 
