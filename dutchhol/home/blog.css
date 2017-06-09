@@ -20,42 +20,60 @@ body {
 background:darkgrey;
 }
 div {
-border:solid;
-border-radius:10px;
-background:whitesmoke;
+    border:solid;
+    border-radius:10px;
+    background:whitesmoke;
 }
 #image {
-    height:50px;
+    height:100px;
     padding:5px;
 }
 #header {
-position:relative;
-text-align:center;
-margin-bottom:55px;
-top:45px;
+    position:relative;
+    text-align:center;
+    margin-bottom:55px;
+    top:70px;
 }
 #menu {
-text-align:center;
-position:fixed;
-margin-top:5px;
-z-index:1;
-left:10%;
-width:80%;
+    text-align:center;
+    position:fixed;
+    margin-top:-5px;
+    z-index:1;
+    left:10%;
+    width:80%;
 }
 #menu li {
-display:inline;
-background:lightgrey;
-border-radius:5px;
-border:solid black 2px;
-padding:4px;
-font-family:Helvetica, Arial, sans-serif;
+    display:inline;
+    background:lightgrey;
+    border-radius:5px;
+    border:solid black 2px;
+    padding-top: 1px;
+    padding-bottom:1px;
+    padding-left: 4px;
+    padding-right: 4px;
+    font-family:Helvetica, Arial, sans-serif;
+    font-size:24px;
+    margin: 0 auto;
+    top:-15px;
+    position:relative;
+}
+#menu ul {
+    margin:4px;
+    padding-left: 0px;
+}
+#menu img {
+    border:0px;
+    padding-right: 5px;
+    padding-left: 5px;
+    height:50px;
 }
 .left {
-position:relative;
-float:left;
-width:73%;
-margin-bottom:10px;
-height:1000px;
+    position:relative;
+    float:left;
+    width:73%;
+    top:25px;
+    margin-bottom:10px;
+    height:1000px;
 }
 .left div{
 padding:10px;
@@ -70,7 +88,8 @@ background-color:white;
 position:relative;
 float:right;
 width:25%;
-margin-bottom:10px;
+    top:25px;
+margin-bottom:40px;
 height:1000px;
 }
 .right div{
@@ -91,4 +110,7 @@ bottom:0;
 div#footer div{
 border-color:transparent;
 padding:10px;
+}
+#sortable {
+    display: inline;
 }
