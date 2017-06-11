@@ -1,23 +1,23 @@
 table {
-border:solid 3px white;
-margin:5px;
-padding:3px;
-border-radius:6px;
-background-color:black;
-color:white;
+    border:solid 3px white;
+    margin:5px;
+    padding:3px;
+    border-radius:6px;
+    background-color:black;
+    color:white;
 }
 h2 {
-color:#1947D1;
+    color:#1947D1;
 }
 a {
-text-decoration:none;
-color:black;
+    text-decoration:none;
+    color:black;
 }
-a:hover {
-color:white;
+    a:hover {
+    color:white;
 }
 body {
-background:darkgrey;
+    background:darkgrey;
 }
 div {
     border:solid;
@@ -74,27 +74,29 @@ div {
     top:25px;
     margin-bottom:10px;
     height:1000px;
+    font-family:Helvetica, Arial, sans-serif;
 }
 .left div{
-padding:10px;
-border-color:transparent;
+    padding:10px;
+    border-color:transparent;
 }
 .left div>div {
-height:100px;
-width:100px;
-background-color:white;
+    height:100px;
+    width:100px;
+    background-color:white;
 }
 .right {
-position:relative;
-float:right;
-width:25%;
+    position:relative;
+    float:right;
+    width:25%;
     top:25px;
-margin-bottom:40px;
-height:1000px;
+    margin-bottom:40px;
+    height:1000px;
+    font-family:Helvetica, Arial, sans-serif;
 }
 .right div{
-padding:10px;
-border-color:transparent;
+    padding:10px;
+    border-color:transparent;
 }
 #button{
 background:red;

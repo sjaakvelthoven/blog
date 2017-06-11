@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7a880632-6944-4e93-9f7b-abccdf558fa1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dutchhol/home/approach.html" afterPath="$PROJECT_DIR$/dutchhol/home/approach.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dutchhol/home/blogg.html" afterPath="$PROJECT_DIR$/dutchhol/home/blogg.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dutchhol/home/contact.html" afterPath="$PROJECT_DIR$/dutchhol/home/contact.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dutchhol/home/news.html" afterPath="$PROJECT_DIR$/dutchhol/home/news.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dutchhol/home/blog.css" afterPath="$PROJECT_DIR$/dutchhol/home/blog.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dutchhol/home/work.html" afterPath="$PROJECT_DIR$/dutchhol/home/work.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -35,8 +31,8 @@
       <file leaf-file-name="blog.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/dutchhol/home/blog.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1380">
-              <caret line="92" column="13" lean-forward="false" selection-start-line="92" selection-start-column="13" selection-end-line="92" selection-end-column="13" />
+            <state relative-caret-position="1079">
+              <caret line="98" column="4" lean-forward="false" selection-start-line="98" selection-start-column="4" selection-end-line="98" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -85,9 +81,11 @@
       <file leaf-file-name="work.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dutchhol/home/work.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-              <folding />
+            <state relative-caret-position="105">
+              <caret line="7" column="84" lean-forward="false" selection-start-line="7" selection-start-column="84" selection-end-line="7" selection-end-column="84" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -106,11 +104,11 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/dutchhol/home/blog.js" />
-        <option value="$PROJECT_DIR$/dutchhol/home/blog.css" />
         <option value="$PROJECT_DIR$/dutchhol/home/blogg.html" />
         <option value="$PROJECT_DIR$/dutchhol/home/approach.html" />
         <option value="$PROJECT_DIR$/dutchhol/home/contact.html" />
         <option value="$PROJECT_DIR$/dutchhol/home/news.html" />
+        <option value="$PROJECT_DIR$/dutchhol/home/blog.css" />
         <option value="$PROJECT_DIR$/dutchhol/home/work.html" />
       </list>
     </option>
@@ -291,12 +289,12 @@
       <workItem from="1496845657954" duration="1025000" />
       <workItem from="1496986718741" duration="4000" />
       <workItem from="1496986724901" duration="7276000" />
-      <workItem from="1497185038999" duration="66000" />
+      <workItem from="1497185038999" duration="590000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11361000" />
+    <option name="totallyTimeSpent" value="11885000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1436" height="877" extended-state="6" />
@@ -383,7 +381,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="25" column="56" lean-forward="true" selection-start-line="25" selection-start-column="56" selection-end-line="25" selection-end-column="56" />
-          <folding />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -547,14 +547,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dutchhol/home/blog.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1380">
-          <caret line="92" column="13" lean-forward="false" selection-start-line="92" selection-start-column="13" selection-end-line="92" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/dutchhol/home/approach.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -587,11 +579,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/dutchhol/home/blog.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1079">
+          <caret line="98" column="4" lean-forward="false" selection-start-line="98" selection-start-column="4" selection-end-line="98" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/dutchhol/home/work.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="21" column="22" lean-forward="false" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-          <folding />
+        <state relative-caret-position="105">
+          <caret line="7" column="84" lean-forward="false" selection-start-line="7" selection-start-column="84" selection-end-line="7" selection-end-column="84" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
